@@ -38,3 +38,4 @@ Ensure that the IAM role associated with the Lambda function has the necessary p
         }
     ]
 }
+
