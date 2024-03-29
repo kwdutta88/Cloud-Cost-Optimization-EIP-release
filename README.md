@@ -24,7 +24,7 @@ The Lambda function retrieves a list of all Elastic IP addresses in your AWS acc
 
 Ensure that the IAM role associated with the Lambda function has the necessary permissions to describe and release Elastic IPs. Here's an example IAM policy:
 
-
+```json
 {
     "Version": "2012-10-17",
     "Statement": [
